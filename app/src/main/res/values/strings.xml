@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GudangBaliyoniMobile</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Username</string>
+</resources>

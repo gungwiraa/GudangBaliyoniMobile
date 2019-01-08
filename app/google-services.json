@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "870409124177",
+    "firebase_url": "https://pos-baliyoni.firebaseio.com",
+    "project_id": "pos-baliyoni",
+    "storage_bucket": "pos-baliyoni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870409124177:android:a2fece761f2e4837",
+        "android_client_info": {
+          "package_name": "com.example.ux32vd.gudangbaliyonimobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870409124177-85s7j8rn51vhhrktfhgih83hqaufc8bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ux32vd.gudangbaliyonimobile",
+            "certificate_hash": "995546e6630aa369bcf0c014112b899bd9ccef6b"
+          }
+        },
+        {
+          "client_id": "870409124177-8nu3ar3mcvb7lmo66ju8hafivnd6tog1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZk3BD-bMYfAllyVtzj1GxSz6NKUX_Eo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870409124177-8nu3ar3mcvb7lmo66ju8hafivnd6tog1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
